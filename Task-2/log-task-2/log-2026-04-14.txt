@@ -1,0 +1,396 @@
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       760Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   32K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  4.8 us,  0.0 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       760Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   88K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       760Mi       6.6Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   88K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  8.7 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       760Mi       6.6Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  104K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       760Mi       6.6Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  120K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  4.5 us,  0.0 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       760Mi       6.6Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  128K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       761Mi       6.6Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   32K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  4.5 us,  4.5 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       761Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   52K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  4.3 us,  4.3 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       762Mi       6.6Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   60K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       762Mi       6.6Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   60K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  4.5 sy,  0.0 ni, 95.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       762Mi       6.6Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   76K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  4.3 us,  8.7 sy,  0.0 ni, 87.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        23Mi       756Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   96K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  8.7 us,  4.3 sy,  0.0 ni, 87.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        23Mi       756Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   96K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  5.0 sy,  0.0 ni, 95.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        23Mi       756Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G   96K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        23Mi       756Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  344K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  8.7 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        29Mi       762Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  352K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        23Mi       756Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  352K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: date+%Y-%m-%d %H:%M:%S: command not found
+/home/satyam/Devops_pyspider/Task/Task-2/Analyze_system.sh: line 3: Date: command not found
+CPU Usage
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        23Mi       756Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  352K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+CPU Usage
+%Cpu(s):  0.0 us,  4.8 sy,  0.0 ni, 95.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        23Mi       757Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  360K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
+ .......Analyze system usage......
+CPU Usage
+%Cpu(s):  0.0 us,  8.7 sy,  0.0 ni, 91.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.1Gi       6.2Gi        23Mi       757Mi       6.7Gi
+Swap:          974Mi          0B       974Mi
+ Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           795M  1.2M  794M   1% /run
+/dev/sda1        58G   14G   42G  25% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  368K  3.9G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           795M  120K  795M   1% /run/user/1000
